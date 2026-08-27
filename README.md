@@ -1,16 +1,20 @@
-## Hi there 👋
+# Daniela Lopes Cardoso
 
-<!--
-**DLopesCardoso/dlopescardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Molecular biologist and computational researcher working at the interface of
+nucleic acid biology, genomics, transcriptomics and bioinformatics.
 
-Here are some ideas to get you started:
+My research combines experimental biology with computational analysis,
+particularly in regulatory RNA and DNA, sequencing and genome biology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+Developing reproducible computational approaches for integrating sequence-based
+predictions with genomic, transcriptomic and functional evidence.
+
+## Research interests
+
+- Regulatory RNAs and RNA-RNA interactions
+- Genomics and transcriptomics
+- Sequencing data analysis
+- Nucleic acid biology
+- Reproducible computational research
